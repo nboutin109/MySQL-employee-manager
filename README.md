@@ -1,11 +1,11 @@
 # Title
 <p>MySQL Employee Manager CLI Application</p>
-<p>This application allows the user to add, remove, view, and correlate employees, roles, and departments.</p>
+<p>This application allows the user to add, remove, view, and correlate employees, roles, and departments. Functions in the terminal/command line interface of a device.</p>
 <img src="Capture4.PNG" height="250px" width="400px"/>
 
 # Installation
-<p>A live deployment is not available as this is designed as a CLI application</p>
-<p>To use locally use the following steps.</p>
+<p>A live deployment is not available as this application was designed to be a CLI application</p>
+<p>To use locally complete the following steps:</p>
 <ol>
     <li>Download the files from Github.</li>
     <li>Install and setup MySQL with a localhost server.</li>
